@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a), meu nome é Pedro Lima!!
+### Olá, seja bem vindo(a), meu nome é Pedro Lima!
 
 <div align="center">
   
