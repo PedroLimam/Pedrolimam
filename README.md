@@ -33,7 +33,7 @@ Trabalho principalmente com **React.js, Next.js, React Native, TypeScript e Node
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="35" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
 
