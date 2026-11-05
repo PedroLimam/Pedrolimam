@@ -8,6 +8,7 @@ Trabalho principalmente com **React.js, Next.js, React Native, TypeScript e Node
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Pedrolimam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolimam&layout=compact&langs_count=8&theme=highcontrast" />
 </div>
 
