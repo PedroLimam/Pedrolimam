@@ -4,14 +4,6 @@ Meu nome é **Pedro Lima**, sou Desenvolvedor Full Stack com mais de 4 anos de e
 
 Trabalho principalmente com **React.js, Next.js, React Native, TypeScript e Node.js**, desenvolvendo interfaces, funcionalidades, APIs e integrações. Também tenho experiência com bancos de dados relacionais, testes automatizados e otimização de aplicações.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Pedrolimam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolimam&layout=compact&langs_count=8&theme=highcontrast" />
-</div>
-
 ## 🛠️ Tecnologias
 
 **Front-End**
